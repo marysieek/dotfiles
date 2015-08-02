@@ -147,4 +147,8 @@ command W execute ":w | :RuboCop"
 " Plugins config
 " ---------------------------------------------------------------------------
 
+" Rubocop config
 let g:vimrubocop_config = '~/rubocop.yml'
+
+" ACK config
+let g:ackprg = 'ag --nogroup --nocolor --column'
