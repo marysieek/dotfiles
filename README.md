@@ -1,3 +1,3 @@
-# ★ Dotfiles - Maria Stoklosa ★
+# ★ Dotfiles - Maria Korlotian ★
 
 This repo currently contains VIM config
